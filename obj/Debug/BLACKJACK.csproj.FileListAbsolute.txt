@@ -1,0 +1,20 @@
+C:\Users\msı\source\repos\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.csprojAssemblyReference.cache
+C:\Users\msı\source\repos\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.Form1.resources
+C:\Users\msı\source\repos\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.Properties.Resources.resources
+C:\Users\msı\source\repos\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.csproj.GenerateResource.cache
+C:\Users\msı\source\repos\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.csproj.CoreCompileInputs.cache
+C:\Users\msı\source\repos\BLACKJACK\BLACKJACK\bin\Debug\BLACKJACK.exe.config
+C:\Users\msı\source\repos\BLACKJACK\BLACKJACK\bin\Debug\BLACKJACK.exe
+C:\Users\msı\source\repos\BLACKJACK\BLACKJACK\bin\Debug\BLACKJACK.pdb
+C:\Users\msı\source\repos\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.exe
+C:\Users\msı\source\repos\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.pdb
+C:\Users\Denizcan Özkeçeci\OneDrive\Masaüstü\BLACKJACK\bin\Debug\BLACKJACK.exe.config
+C:\Users\Denizcan Özkeçeci\OneDrive\Masaüstü\BLACKJACK\bin\Debug\BLACKJACK.exe
+C:\Users\Denizcan Özkeçeci\OneDrive\Masaüstü\BLACKJACK\bin\Debug\BLACKJACK.pdb
+C:\Users\Denizcan Özkeçeci\OneDrive\Masaüstü\BLACKJACK\obj\Debug\BLACKJACK.csprojAssemblyReference.cache
+C:\Users\Denizcan Özkeçeci\OneDrive\Masaüstü\BLACKJACK\obj\Debug\BLACKJACK.Form1.resources
+C:\Users\Denizcan Özkeçeci\OneDrive\Masaüstü\BLACKJACK\obj\Debug\BLACKJACK.Properties.Resources.resources
+C:\Users\Denizcan Özkeçeci\OneDrive\Masaüstü\BLACKJACK\obj\Debug\BLACKJACK.csproj.GenerateResource.cache
+C:\Users\Denizcan Özkeçeci\OneDrive\Masaüstü\BLACKJACK\obj\Debug\BLACKJACK.csproj.CoreCompileInputs.cache
+C:\Users\Denizcan Özkeçeci\OneDrive\Masaüstü\BLACKJACK\obj\Debug\BLACKJACK.exe
+C:\Users\Denizcan Özkeçeci\OneDrive\Masaüstü\BLACKJACK\obj\Debug\BLACKJACK.pdb
